@@ -1,6 +1,8 @@
 gunicorn
 python-dev-tools
 flask
+tensorflow
+torch
 arxiv
 transformers
 feedparser
